@@ -1,0 +1,13 @@
+{
+  "name": "ER Tips Tab",
+  "manifest_version": 2,
+  "description": "Custom tips when you open a new tab in Chrome",
+  "version": "0.0.0.1",
+  "permissions": ["management"],
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  },
+  "icons": [{
+    "256": "icon.png"
+  }]
+}
