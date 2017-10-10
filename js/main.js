@@ -2,7 +2,7 @@
 var tipsList = [
 "This is a test",
 "This is another test",
-"Add your school notes/tips into the array in main.js file to display here"
+"Add your school notes/tips into the array in main.js file to display here",
 "HELLO WORLD"
 ];
 
